@@ -19,3 +19,7 @@ Type the following command: dism /online /Enable-Feature /FeatureName:NetFx3 /So
 Press Enter and waiting for the installation finish (100%)
 
 Reboot
+
+
+
+https://tb.rg-adguard.net/public.php
